@@ -1,6 +1,9 @@
 # HandWritten_Alphabet_Recognition_using_pygame-mnist_dataset
 
 [CI_Final.pdf](https://github.com/Abhishek572002/HandWritten_Alphabet_Recognition_using_pygame-mnist_dataset/files/11274247/CI_Final.pdf)
+
+Dataset link :
+https://drive.google.com/drive/folders/1CU3BsXj7FbwI5Xc_42qnYOijnerd7lqg
 Loss and Accuracy Graph in model1 during the Trauning of dataset
 ![image](https://user-images.githubusercontent.com/103774658/233110154-d8a749cd-05cc-49d3-b2c5-ef1cb11da390.png)
 
